@@ -1,0 +1,12 @@
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\bin\Debug\27.02Uygulama.exe.config
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\bin\Debug\27.02Uygulama.exe
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\bin\Debug\27.02Uygulama.pdb
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\obj\Debug\27.02Uygulama.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\obj\Debug\_27._02Uygulama.Form1.resources
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\obj\Debug\_27._02Uygulama.Properties.Resources.resources
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\obj\Debug\_27._02Uygulama.TelefonForm.resources
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\obj\Debug\27.02Uygulama.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\obj\Debug\27.02Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\obj\Debug\27.02Uygulama.exe
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\obj\Debug\27.02Uygulama.pdb
+C:\Users\Ali Ozan\source\repos\27.02Uygulama\27.02Uygulama\obj\Debug\_27._02Uygulama.Form2.resources
